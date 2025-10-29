@@ -3,11 +3,6 @@ Deep Learning based Credit Card Fraud Detection System
 
 # Credit Card Fraud Detection using Deep Learning
 
-![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.8%2B-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-
 ## 📋 Project Overview
 
 This project implements a **Deep Learning-based Credit Card Fraud Detection System** that can identify fraudulent transactions in real-time. The system uses Artificial Neural Networks (ANN) to analyze transaction patterns and distinguish between legitimate and fraudulent behavior with high accuracy.
