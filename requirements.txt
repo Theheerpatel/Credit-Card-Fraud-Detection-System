@@ -1,0 +1,29 @@
+# Credit Card Fraud Detection - Deep Learning Project
+# Python 3.7+ compatible packages
+
+# Core Data Science Libraries
+pandas>=1.5.3
+numpy>=1.21.6
+scikit-learn>=1.0.2
+
+# Deep Learning Framework
+tensorflow>=2.12.0
+
+# Data Visualization
+matplotlib>=3.5.3
+seaborn>=0.12.2
+
+# Handling Class Imbalance
+imbalanced-learn>=0.10.1
+
+# Model Serialization
+joblib>=1.2.0
+h5py>=3.8.0
+
+# Jupyter/Colab Support
+jupyter>=1.0.0
+ipykernel>=6.0.0
+google-colab>=1.0.0  # Optional: For Google Colab compatibility
+
+# Utilities
+tqdm>=4.64.1
