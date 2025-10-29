@@ -32,14 +32,14 @@ This project implements a **Deep Learning-based Credit Card Fraud Detection Syst
 ### Deep Neural Network Structure
 
 
-Input Layer (30 features)
-↓
-Dense Layer (64 neurons, ReLU) + Dropout (0.3)
-↓
-Dense Layer (32 neurons, ReLU) + Dropout (0.3)
-↓
-Dense Layer (16 neurons, ReLU) + Dropout (0.2)
-↓
+Input Layer (30 features)  
+↓  
+Dense Layer (64 neurons, ReLU) + Dropout (0.3)  
+↓  
+Dense Layer (32 neurons, ReLU) + Dropout (0.3)  
+↓  
+Dense Layer (16 neurons, ReLU) + Dropout (0.2)  
+↓  
 Output Layer (1 neuron, Sigmoid)
 
 
